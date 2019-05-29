@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Git Hub\Training\EA Project\ConsoleApp\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+C:\Users\Administrator\Documents\Git Hub\Training\EA Project\ConsoleApp\CSharpBasic\bin\Debug\CSharpBasic.exe
+C:\Users\Administrator\Documents\Git Hub\Training\EA Project\ConsoleApp\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Users\Administrator\Documents\Git Hub\Training\EA Project\ConsoleApp\CSharpBasic\obj\Debug\CSharpBasic.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Git Hub\Training\EA Project\ConsoleApp\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Git Hub\Training\EA Project\ConsoleApp\CSharpBasic\obj\Debug\CSharpBasic.exe
+C:\Users\Administrator\Documents\Git Hub\Training\EA Project\ConsoleApp\CSharpBasic\obj\Debug\CSharpBasic.pdb
